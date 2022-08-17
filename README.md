@@ -25,4 +25,4 @@ In the second one write: cd client
 In the frame which we written cd server we compile using the command "g++ *.cpp -std=c++11" and then run with the command:./a.out"
 Now in the second frame we compile using the command "g++ *.cpp -std=c++11" and then run with the command:./a.out "Unclassified.csv" "result.csv"
 
-
+Note: The output file is expected to be in the Client folder.
